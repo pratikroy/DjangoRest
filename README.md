@@ -1,5 +1,4 @@
-# Profile REST API
-
-Complete coding for Profile REST API. Here Profile stands for standard Django's
-inbuild authentication system. At the end of this course we will have a complete
-REST API for authenticating users based on Django's auth models.
+#Basic REST API demo using a sample polling app.
+ In this project I will walk through a process of creating APIs for a basic Poll
+ application. I will be using Python 3.7.x, Django 2.2.x and Django REST Framework
+ 3.10.x.
